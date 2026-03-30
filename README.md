@@ -15,11 +15,11 @@ This repository contains my detailed independent research work on the **NORCET**
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bypinak/)
-[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bypinak)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/bypinak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://pinak.surge.sh/)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:real.pinak@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pinak_dhoklu/)
+[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pinak_dhoklu)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/pinak_dhoklu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pinak.surge.sh/)
+
 
 <img src="https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif" alt="App Demo" hight="100" width="600" style="border-radius: 15px;"/>
 
